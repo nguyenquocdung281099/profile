@@ -27,11 +27,7 @@
 <img src='https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg' alt='Node logo' width='50' height='50'/>
 <img src='https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg' alt='mongo logo' width='50' height='50'/>
 <img src='https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg' alt='express logo' width='50' height='50'/>
-## my Skill
-<a href="https://github.com/namnguyen-dev">
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=namnguyen-dev&show_icons=true&theme=radical"/>
-</a>
-<!--
+
 **https://dungnq.netlify.app/** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
