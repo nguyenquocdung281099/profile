@@ -1,4 +1,4 @@
-## Hola, I'm [Nam Nguyen!](https://namdeveloper.netlify.app/) 👋
+## Hola, I'm [Dung Nguyen!](https://dungnq.netlify.app/) 👋
 
 # 💫About Me :
 
