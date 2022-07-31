@@ -8,7 +8,6 @@
   currently working, and have over 1 year of experience working with HTML, CSS,
   Javascript, typescript, React, a little Veujs, Nextjs, and basic NodeJS. My goal is to
   pursue a career in the field of Web development.
-
 <br></br>
 
 ## 👀 Where to find me
@@ -47,6 +46,15 @@
 ![macOS](https://img.shields.io/badge/macOS-0078D6?style=for-the-badge&logo=macOS&logoColor=000000)
 ![Apple](https://img.shields.io/badge/Apple-0078D6?style=for-the-badge&logo=Apple&logoColor=000000)
 ![vs-code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
+
+## Most Langs
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenquocdung281099&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<br></br>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nguyenquocdung281099&theme=dark&background=000000)](https://git.io/streak-stats)
+<br></br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenquocdung281099)](https://github.com/anuraghazra/github-readme-stats)
+
 
 **https://dungnq.netlify.app/** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
