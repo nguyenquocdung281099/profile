@@ -16,17 +16,37 @@
 </p>
 <br>
 
+### Languages
+
+![typescript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+
 ## 🧰 Things I code with
-<img src='https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg' alt='HTML5 logo' width='50' height='50'/> 
-<img src='https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg' alt='CSS logo' width='50' height='50'/> 
-<img src='https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg' alt='Tailwind logo' width='50' height='50'/>
-<img src='https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg' alt='Javascript logo' width='50' height='50'/>
-<img src='https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg' alt='React logo' width='50' height='50'/> 
-<img src='https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg' alt='Redux logo' width='50' height='50'/>
-<img src='https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg' alt='Git logo' width='50' height='50'/>
-<img src='https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg' alt='Node logo' width='50' height='50'/>
-<img src='https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg' alt='mongo logo' width='50' height='50'/>
-<img src='https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg' alt='express logo' width='50' height='50'/>
+
+![vue](https://img.shields.io/badge/Vue.js-20232A?style=for-the-badge&logo=Vue.js&logoColor=4FC08D)
+![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![graphql](https://img.shields.io/badge/GraphQL-E434AA?style=for-the-badge&logo=graphql&logoColor=white)
+![gulp](https://img.shields.io/badge/gulp-EB4A4B?style=for-the-badge&logo=Gulp&logoColor=white)
+![pug](https://img.shields.io/badge/Pug-A86454?style=for-the-badge&logo=pug&logoColor=white)
+![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![sass](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![react-router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-20232A?style=for-the-badge&logo=GitHub&logoColor=181717)
+
+### Backend as a Service (BaaS)
+
+![heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+![netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+
+## 🖥️ Workspace Setup
+
+![macOS](https://img.shields.io/badge/macOS-0078D6?style=for-the-badge&logo=macOS&logoColor=000000)
+![Apple](https://img.shields.io/badge/Apple-0078D6?style=for-the-badge&logo=Apple&logoColor=000000)
+![vs-code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
 
 **https://dungnq.netlify.app/** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
